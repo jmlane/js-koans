@@ -1,0 +1,13 @@
+{
+  "name": "js-koans",
+  "version": "0.1.0-dev",
+  "description": "Learn ES6 JavaScript by contemplating koans expressed within a suite of tests.",
+  "author": "Jonathan M. Lane <jmlane@gmail.com>",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "6to5": "^3.3.12",
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
